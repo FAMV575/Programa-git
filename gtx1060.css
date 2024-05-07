@@ -1,0 +1,30 @@
+/* Estilos generales */
+body {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #333333; /* Texto oscuro */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 0; /* Eliminar relleno predeterminado */
+    font-family: "Arial", sans-serif;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: green; /* Fondo verde */
+    color: #ffffff; /* Texto blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación centrada del texto */
+}
+
+/* Estilos para la sección */
+section {
+    padding: 20px; /* Espaciado interno */
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: green; /* Fondo verde */
+    color: #ffffff; /* Texto blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación centrada del texto */
+}
